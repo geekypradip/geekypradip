@@ -13,7 +13,7 @@
 <h3>My daily dev statics</h3>
 <a href="https://app.daily.dev/geeks"><img style="width:200px" src="https://api.daily.dev/devcards/80dcbf64301341179973904be207fac5.png?r=zrz" width="400" alt="Pradip Mandal's Dev Card"/></a>
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekypradip&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekypradip&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=151515&bg_color=ffffff"/>
 
 **Languages and Tools:**  
 
@@ -25,23 +25,23 @@
 
 
 <a href="https://github.com/geekypradip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekypradip&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekypradip&theme=light&hide_langs_below=1" />
 </a> 
 <a href="https://github.com/geekypradip/bath-and-body-works-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=bath-and-body-works-clone&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=bath-and-body-works-clone&theme=light" />
 
 </a>
 <a href="https://github.com/geekypradip/fathom-heath">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=fathom-heath&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=fathom-heath&theme=light" />
 </a>
 <a href="https://github.com/geekypradip/newsApp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=newsApp&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=newsApp&theme=light" />
 </a>
 <a href="https://github.com/geekypradip/food-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=food-app&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=food-app&theme=light" />
 </a>
 <a href="https://github.com/geekypradip/car-showroom-React">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=car-showroom-React&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=car-showroom-React&theme=light" />
 </a>
 
 <div align="center">
