@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Open source Web project
 - 🤔 I’m looking for help with JOB
-- 💬 Ask me about Anything, You wont back empty
+- 💬 Ask me about related to: <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" style="width:20px"/>   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" style="width:25px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" style="width:20px"/>   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" style="width:20px"/> 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/pradip-mandal-08509615b/"><img style="width:20px" src="https://github.com/geekypradip/geekypradip/blob/main/58e91afdeb97430e81906504%20(1).png?raw=true" /></a>
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
