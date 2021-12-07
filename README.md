@@ -10,8 +10,6 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
 
-<h3>My daily dev statics</h3>
-<a href="https://app.daily.dev/geeks"><img style="width:200px" src="https://api.daily.dev/devcards/80dcbf64301341179973904be207fac5.png?r=zrz" width="400" alt="Pradip Mandal's Dev Card"/></a>
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=geekypradip&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=151515&bg_color=ffffff"/>
 
