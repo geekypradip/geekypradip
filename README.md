@@ -26,20 +26,20 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekypradip&theme=light&hide_langs_below=1" />
 </a> 
 <a href="https://github.com/geekypradip/bath-and-body-works-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=bath-and-body-works-clone&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=bath-and-body-works-clone&theme=light" />
 
 </a>
 <a href="https://github.com/geekypradip/fathom-heath">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=fathom-heath&theme=light" />
 </a>
 <a href="https://github.com/geekypradip/newsApp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=newsApp&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=newsApp&theme=light" />
 </a>
 <a href="https://github.com/geekypradip/food-app">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=food-app&theme=light" />
 </a>
 <a href="https://github.com/geekypradip/car-showroom-React">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=car-showroom-React&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=car-showroom-React&theme=light" />
 </a>
 
 <div align="center">
