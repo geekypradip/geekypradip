@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with JOB
 - 💬 Ask me about Anything ,You wont back Empty
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/pradip-mandal-08509615b/"><img style="width:20px" src="https://github.com/geekypradip/geekypradip/blob/main/58e91afdeb97430e81906504%20(1).png?raw=true" /></a>
+- 🌐 <a href="https://geekypradip.github.io/portfolio/">check my portfolio Website</a>
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
 
