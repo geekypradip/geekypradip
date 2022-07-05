@@ -1,11 +1,11 @@
 ###  Hi there I am Pradip 👋
 
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on React, Redux, Typescript
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Open source Web project
 - 🤔 I’m looking for help with JOB
-- 💬 Ask me about Anything ,You wont back Empty
+- 💬 Ask me about Anything ,You won't back Empty
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/pradip-mandal-08509615b/"><img style="width:20px" src="https://github.com/geekypradip/geekypradip/blob/main/58e91afdeb97430e81906504%20(1).png?raw=true" /></a>
 - 🌐 <a href="https://geekypradip.github.io/portfolio/">check my portfolio Website</a>
 - 😄 Pronouns: he/his
@@ -22,6 +22,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/typescript.png"></code>
 
 <a href="https://github.com/geekypradip">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekypradip&theme=light&hide_langs_below=1" />
